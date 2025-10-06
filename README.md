@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working towards **self goals**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **journey of achievements**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lohargaurav00/Code_Book](https://github.com/lohargaurav00/Code_Book)
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Typescript, JavaScript, Rust**
 
 - 📫 How to reach me **lohargaurav00@gmail.com**
 
